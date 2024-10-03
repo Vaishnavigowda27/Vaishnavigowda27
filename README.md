@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning npm
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with how to contribute on open source projects as a begineer.
-- 💬 Ask me about ??
+- 💬 Ask me about Developer
 - 📫 How to reach me: https://in.linkedin.com/in/vaishnavi-s-626976256
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:____
+
 
