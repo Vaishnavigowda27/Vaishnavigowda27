@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on opensource projects
-- 🌱 I’m currently learning npm
+- 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with how to contribute on open source projects as a begineer.
 - 💬 Ask me about Developer
