@@ -1,49 +1,47 @@
-<h2 align="left">Hi 👋! My name is Vaishnavi and I'm a Frontend Developer from India</h2>
+<h2 align="left">Hyy👋 My name is Vaishnavi and I'm a Frontend Developer from India</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavigowda27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnavigowda27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavigowda27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnavigowda27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <br />
+  <img src="https://raw.githubusercontent.com/Vaishnavigowda27/Vaishnavigowda27/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
 <div align="left">
 
-<h3>🔭 I’m currently working on</h3>
-<ul>
-  <li><strong>ai-medical-voice-agent</strong> – An empathetic AI healthcare assistant.</li>
-</ul>
+### 🔭 I’m currently working on
+- **ai-medical-voice-agent** – An empathetic AI healthcare assistant.
 
-<h3>👯 I’m looking to collaborate on</h3>
-<ul>
-  <li><strong><a href="https://github.com/Vaishnavigowda27/BlogWiz">BlogWiz</a></strong> – An AI-powered blog generator using Gemini, SerpAPI, and a modern glassmorphism frontend.</li>
-</ul>
+### 👯 I’m looking to collaborate on
+- [**BlogWiz**](https://github.com/Vaishnavigowda27/BlogWiz) – An AI-powered blog generator using Gemini, SerpAPI, and a modern glassmorphism frontend.
 
-<h3>🤝 I’m looking for help with</h3>
-<ul>
-  <li><strong>Synkora</strong> – A social lunch meetup app for college students based on a card deck profile system.</li>
-</ul>
+### 🤝 I’m looking for help with
+- **Synkora** – A social lunch meetup app for college students based on a card deck profile system.
 
-<h3>🌱 I’m currently learning</h3>
-<p>Artificial Intelligence & Machine Learning, Next.js, and Autonomous AI Agents</p>
+### 🌱 I’m currently learning
+Artificial Intelligence & Machine Learning  
+Also diving deeper into **Next.js** and **Autonomous AI Agents**
 
-<h3>💬 Ask me about</h3>
-<p>Frontend, Backend, AI integrations, React, Node.js, Streamlit</p>
+### 💬 Ask me about
+Frontend, Backend, AI integrations, React, Node.js, Streamlit
 
-<h3>📫 How to reach me</h3>
-<p>Email: vaishnavisgowda27@gmail.com</p>
+### 📫 How to reach me
+vaishnavisgowda27@gmail.com
 
-<h3>📄 Know about my experiences</h3>
-<p><a href="file:///C:/Users/Vaishnavi/Documents/vaishu%20(1).pdf">Resume (Local File)</a></p>
+### 📄 Know about my experiences
+<a href="file:///C:/Users/Vaishnavi/Documents/vaishu%20(1).pdf">Resume (local file)</a>
 
-<h3>⚡ Fun fact</h3>
-<p>I think I’m funny, but my code bugs don’t agree 😅 Also... I dream of owning a GT Silver Porsche 911 GT3 RS someday.</p>
+### ⚡ Fun fact
+I think I’m funny, but my code bugs don’t agree 😅  
+Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
 
 </div>
 
@@ -100,18 +98,10 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
