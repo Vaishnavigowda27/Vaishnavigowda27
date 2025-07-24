@@ -80,8 +80,6 @@ Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-<img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-ar21.svg" height="30" alt="Streamlit"/>
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="30" alt="OpenAI"/>
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="30" alt="Vercel"/>
 
 </div>
