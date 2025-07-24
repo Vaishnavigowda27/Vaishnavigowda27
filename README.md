@@ -1,5 +1,4 @@
-<h2 align="left">Hyy👋! My name is Vaishnavi, 🌟 I love building things that people actually enjoy using.
-💡 My motto: Code smart, break fast, learn faster!
+<h2 align="left">Hyy👋! My name is Vaishnavi — AI explorer, full-stack dev, and frontend artist by day...
  </h2>
 
 ###
