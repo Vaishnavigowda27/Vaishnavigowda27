@@ -66,7 +66,7 @@ Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS"/>
 
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
@@ -81,8 +81,8 @@ Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-<img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" height="30" alt="Streamlit"/>
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="30" alt="OpenAI"/>
+<img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-ar21.svg" height="30" alt="Streamlit"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" height="30" alt="OpenAI"/>
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="30" alt="Vercel"/>
 
 </div>
