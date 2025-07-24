@@ -1,107 +1,79 @@
-<h2 align="left">Hi 👋! My name is Vaishnavi and I'm a Frontend Developer from India</h2>
+<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=E4E4E4&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+AI+%7C+ML+Engineer;Passionate+about+building+cool+UIs+%F0%9F%9A%80;Let%27s+build+something+awesome+%F0%9F%92%BB" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavigowda27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnavigowda27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <br />
-  <img src="https://raw.githubusercontent.com/Vaishnavigowda27/Vaishnavigowda27/output/snake.svg" alt="Snake animation" />
-</div>
+---
 
-###
+### 🔭 I’m currently working on  
+**[AI Medical Voice Agent](https://github.com/Vaishnavigowda27/ai-medical-voice-agent)**
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+### 👯 I’m looking to collaborate on  
+**[BlogWiz](https://github.com/Vaishnavigowda27/blogwiz)** – AI Blog Assistant Generator
 
-###
+### 🤝 I’m looking for help with  
+**[Synkora](https://github.com/Vaishnavigowda27/synkora)** – Campus lunch meetup social app
 
-<div align="left">
+### 🌱 I’m currently learning  
+**AI & ML, Next.js, Autonomous AI Agents**
 
-### 🔭 I’m currently working on
-- **ai-medical-voice-agent** – An empathetic AI healthcare assistant.
+### 💬 Ask me about  
+**Frontend (React, Tailwind, Streamlit) and Backend (Node.js, Flask)**
 
-### 👯 I’m looking to collaborate on
-- [**BlogWiz**](https://github.com/Vaishnavigowda27/BlogWiz) – An AI-powered blog generator using Gemini, SerpAPI, and a modern glassmorphism frontend.
+### 📫 How to reach me  
+📩 **vaishnavisgowda27@gmail.com**
 
-### 🤝 I’m looking for help with
-- **Synkora** – A social lunch meetup app for college students based on a card deck profile system.
+### 👨‍💻 All of my projects are available at  
+🌐 [Portfolio (coming soon)](https://your-portfolio-link.com)
 
-### 🌱 I’m currently learning
-Artificial Intelligence & Machine Learning  
-Also diving deeper into **Next.js** and **Autonomous AI Agents**
+### 📝 I regularly write articles on  
+📰 [Blog (coming soon)](https://your-blog-link.com)
 
-### 💬 Ask me about
-Frontend, Backend, AI integrations, React, Node.js, Streamlit
+### 📄 Know about my experiences  
+📄 [View Resume](https://github.com/Vaishnavigowda27/Vaishnavigowda27/blob/main/vaishnavi_resume.pdf)
 
-### 📫 How to reach me
-vaishnavisgowda27@gmail.com
+### ⚡ Fun fact  
+I think I am funny 😄
 
-### 📄 Know about my experiences
-<a href="file:///C:/Users/Vaishnavi/Documents/vaishu%20(1).pdf">Resume (local file)</a>
+---
 
-### ⚡ Fun fact
-I think I’m funny, but my code bugs don’t agree 😅  
-Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
+## 🧰 Languages and Tools
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,tailwind,figma,py,flask,streamlit" />
+</p>
 
-###
+---
 
-<h3 align="left">🛠️ Skills</h3>
+## 📊 GitHub Stats
 
-<div align="left">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vaishnavigowda27&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavigowda27&theme=dark" />
+</p>
 
-<!-- Programming Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+---
 
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind"/>
+## 🐍 GitHub Contribution Snake
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask"/>
-<img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" height="30" alt="FastAPI"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vaishnavigowda27/Vaishnavigowda27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-<!-- Database -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
+---
 
-<!-- AI/ML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"/>
+## 🌐 Connect with Me
 
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-<img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" height="30" alt="Streamlit"/>
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="30" alt="OpenAI"/>
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="30" alt="Vercel"/>
-
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://github.com/Vaishnavigowda27" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:vaishnavisgowda27@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</p>
