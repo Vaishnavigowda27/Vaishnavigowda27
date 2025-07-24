@@ -17,7 +17,7 @@
 <div align="left">
 
 ### 🔭 I’m currently working on
-- **ai-medical-voice-agent** – An empathetic AI healthcare assistant.
+- **ai-medical-voice-agent**(https://github.com/Vaishnavigowda27/ai-medical-voice-agent) – An empathetic AI healthcare assistant.
 
 ### 👯 I’m looking to collaborate on
 - [**BlogWiz**](https://github.com/Vaishnavigowda27/BlogWiz) – An AI-powered blog generator using Gemini, SerpAPI, and a modern glassmorphism frontend.
