@@ -1,7 +1,6 @@
 <h2 align="left">Hyy👋! My name is Vaishnavi — AI explorer, full-stack dev, and frontend artist by day...
  </h2>
 <h3>Let’s build something amazing together!</h3>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavigowda27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
