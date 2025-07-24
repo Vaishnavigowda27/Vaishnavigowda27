@@ -1,4 +1,6 @@
-<h2 align="left">Hyy👋! My name is Vaishnavi </h2>
+<h2 align="left">Hyy👋! My name is Vaishnavi, 🌟 I love building things that people actually enjoy using.
+💡 My motto: Code smart, break fast, learn faster!
+ </h2>
 
 ###
 
