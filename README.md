@@ -20,7 +20,7 @@
 - [**ai-medical-voice-agent**](https://github.com/Vaishnavigowda27/ai-medical-voice-agent) – An empathetic AI healthcare assistant.
 
 ### 👯 I’m looking to collaborate on
-- [**BlogWiz**](https://github.com/Vaishnavigowda27/BlogWiz) – An AI-powered blog generator using Gemini and SerpAPI, featuring a clean, modern React frontend and a Flask backend. 
+- [**BlogWiz**](https://github.com/Vaishnavigowda27/BlogWiz) – An AI-powered blog generator that uses Gemini and SerpAPI to create high-quality content with smart image and title suggestions. It features a sleek React frontend and a Flask backend for fast, seamless performance.
 
 ### 🤝 I’m looking for help with
 - **Synkora** – A social lunch meetup app for college students based on a card deck profile system.
