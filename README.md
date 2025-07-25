@@ -1,4 +1,5 @@
-<h2 align="left">Hyy👋 Vaishnavi here - I build AI tools, web apps, and clean UIs
+<h2 align="left">Hyy👋 Vaishnavi here - 🧠 Exploring AI, building with code and styling the web.
+
 
  </h2>
 <h3>Let’s build something amazing together!</h3>
