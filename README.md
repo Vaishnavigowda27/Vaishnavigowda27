@@ -17,7 +17,8 @@
 <div align="left">
 
 ### 🔭 I’m currently working on
-- [**ai-medical-voice-agent**](https://github.com/Vaishnavigowda27/ai-medical-voice-agent) – An empathetic AI healthcare assistant.
+- [**ai-medical-voice-agent**](https://github.com/Vaishnavigowda27/ai-medical-voice-agent) –  An AI-powered healthcare assistant that listens to symptoms and responds with empathetic medical guidance.
+Built with Next.js, React, TypeScript, AssemblyAI, Clerk, and Neon DB, it integrates voice recognition, authentication, and secure data storage.
 
 ### 👯 I’m looking to collaborate on
 - [**BlogWiz**](https://github.com/Vaishnavigowda27/BlogWiz) – An AI-powered blog generator that uses Gemini and SerpAPI to create high-quality content with smart image and title suggestions. It features a sleek React frontend and a Flask backend for fast, seamless performance.
