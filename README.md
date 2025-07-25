@@ -1,4 +1,5 @@
-<h2 align="left">Hyy👋! My name is Vaishnavi - AI explorer, full-stack dev, and frontend artist by day...
+<h2 align="left">Hyy👋 Vaishnavi here - I build AI tools, web apps, and clean UIs
+
  </h2>
 <h3>Let’s build something amazing together!</h3>
 
