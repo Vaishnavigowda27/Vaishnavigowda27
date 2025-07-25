@@ -1,4 +1,4 @@
-<h2 align="left">Hyy👋 Vaishnavi here -  Exploring AI, building with code and styling the web.
+<h2 align="left">Hyy👋 Vaishnavi here -  Transforming AI, code, and design into real-world impact.
 
 
  </h2>
