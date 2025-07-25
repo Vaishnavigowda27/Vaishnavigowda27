@@ -36,9 +36,6 @@ Frontend, Backend, AI integrations, React, Node.js, Streamlit
 ### 📫 How to reach me
 vaishnavisgowda27@gmail.com
 
-### 📄 Know about my experiences
-<a href="file:///C:/Users/Vaishnavi/Documents/vaishu%20(1).pdf">Resume (local file)</a>
-
 ### ⚡ Fun fact
 I think I’m funny, but my code bugs don’t agree 😅  
 Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
