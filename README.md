@@ -1,4 +1,4 @@
-<h2 align="left">Hyy👋 Vaishnavi here -  Transforming AI, code, and design into real-world impact.
+<h2 align="left">Hyy👋 Vaishnavi here - Transforming AI and code into real-world innovations.
 
 
  </h2>
