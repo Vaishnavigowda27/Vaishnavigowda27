@@ -1,26 +1,19 @@
-<h2 align="left">Hyy👋 Vaishnavi here - Transforming AI and code into real-world innovations.
+<h2 align="left">Hyy👋 Vaishnavi here - Transforming AI and code into real-world innovations.</h2>
 
-
- </h2>
-<h3>Let’s build something amazing together!</h3>
-
+<!-- 📊 GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavigowda27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnavigowda27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <br />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
+<!-- 💻 Coding fun GIF -->
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="funny gif" />
 
 <div align="left">
 
 ### 🔭 I’m currently working on
-- [**ai-medical-voice-agent**](https://github.com/Vaishnavigowda27/ai-medical-voice-agent) –  An AI-powered healthcare assistant that listens to symptoms and responds with empathetic medical guidance.
-Built with Next.js, React, TypeScript, Clerk, and Neon DB, it integrates voice recognition, authentication, and secure data storage.
+- [**ai-medical-voice-agent**](https://github.com/Vaishnavigowda27/ai-medical-voice-agent) – An AI-powered healthcare assistant that listens to symptoms and responds with empathetic medical guidance. Built with Next.js, React, TypeScript, Clerk, and Neon DB, it integrates voice recognition, authentication, and secure data storage.
 
 ### 👯 I’m looking to collaborate on
 - [**BlogWiz**](https://github.com/Vaishnavigowda27/BlogWiz) – An AI-powered blog generator that uses Gemini and SerpAPI to create high-quality content with smart image and title suggestions. It features a sleek React frontend and a Flask backend for fast, seamless performance.
@@ -44,9 +37,10 @@ Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
 
 </div>
 
-###
-
 <h3 align="left">🛠️ Skills</h3>
+
+<!-- 🧠 Developer vibes GIF -->
+<img align="right" height="150" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Developer GIF" />
 
 <div align="left">
 
@@ -84,8 +78,7 @@ Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
 
 </div>
 
-###
-
+<!-- Social badges -->
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
