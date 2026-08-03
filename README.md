@@ -1,86 +1,155 @@
-<h2 align="left">Hyy👋 Vaishnavi here - Transforming AI and code into real-world innovations.</h2>
+<h1 align="center">Hi, I'm Vaishnavi 👋</h1>
+<h3 align="center">Data Analyst | Turning raw data into decisions that matter 📊</h3>
 
-<!-- 📊 GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavigowda27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnavigowda27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <br />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+SQL+%2B+Python+%2B+Excel;Building+dashboards+that+tell+a+story;Open+to+Entry-Level+Data%2FBusiness+Analyst+roles;Always+learning%2C+always+querying+%F0%9F%93%88&font=Fira+Code&center=true&width=600&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" />
+</p>
 
-<!-- 💻 Coding fun GIF -->
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="funny gif" />
+<p align="center">
+  <a href="mailto:vaishnavisgowda27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/vaishnavi-s-626976256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Vaishnavigowda27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavigowda27&style=for-the-badge&color=2E9EF7" alt="profile views"/>
+</p>
 
-<div align="left">
+---
 
-### 🔭 I’m currently working on
-- [**VoxMedi**](https://github.com/Vaishnavigowda27/VoxMedi) – An AI-powered healthcare assistant that listens to symptoms and responds with empathetic medical guidance. Built with Next.js, React, TypeScript, Clerk, and Neon DB, it integrates voice recognition, authentication, and secure data storage.
+### 👋 About Me
 
-### 👯 I’m looking to collaborate on
-- [**BlogWiz**](https://github.com/Vaishnavigowda27/BlogWiz) – An AI-powered blog generator that uses Gemini and SerpAPI to create high-quality content with smart image and title suggestions. It features a sleek React frontend and a Flask backend for fast, seamless performance.
+- 🎯 Entry-level **Data Analyst** looking for my first full-time role — comfortable with SQL, Python, Excel, and Power BI/Tableau
+- 📊 I like taking messy data and turning it into a clean dashboard, a clear KPI, or one good insight someone can actually act on
+- 🎓 B.E. in Information Science & Engineering, JSS Science and Technology University (SJCE), Mysuru — CGPA 7.76
+- 📝 Co-authored and presented a research paper on **FarmSaarthi** at the **ICRET International Conference (2026)**
+- 🌱 Currently sharpening my analytics fundamentals — SQL joins/CTEs/window functions, Power BI, and statistics/business reasoning
+- 🎯 Long-term goal: an **MBA in Business Analytics** after building a few years of hands-on analyst experience
+- 💬 Ask me about: SQL, Excel, Power BI, Python (Pandas/NumPy), EDA, dashboarding
+- ⚡ Fun fact: I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
 
-### 🤝 I’m looking for help with
-- **Synkora** – A social lunch meetup app for college students based on a card deck profile system.
+---
 
-### 🌱 I’m currently learning
-Artificial Intelligence & Machine Learning  
-Also diving deeper into **Next.js** and **Autonomous AI Agents**
+### 🛠️ Skills
 
-### 💬 Ask me about
-Frontend, Backend, AI integrations, React, Node.js, Streamlit
+**Languages & Querying**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="SQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
+</p>
 
-### 📫 How to reach me
-vaishnavisgowda27@gmail.com
+**Data & Visualization Tools**
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</p>
 
-### ⚡ Fun fact
-I think I’m funny, but my code bugs don’t agree 😅  
-Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
+**Databases & Tools**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code"/>
+</p>
 
-</div>
+**Analytics Concepts**
+<p>
+<img src="https://img.shields.io/badge/Data_Cleaning-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/EDA-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/KPI_Analysis-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/A%2FB_Testing-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Modeling-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/Customer_Segmentation-2E9EF7?style=flat-square" />
+</p>
 
-<h3 align="left">🛠️ Skills</h3>
+---
 
-<!-- 🧠 Developer vibes GIF -->
-<img align="right" height="150" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Developer GIF" />
+### 📌 Featured Analytics Projects
 
-<div align="left">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Programming Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+**📈 Sales Performance Revenue Dashboard**
+`Power BI` `SQL`
 
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS"/>
+- Queried 1M+ sales records to surface revenue trends across regions and product categories
+- Built interactive Power BI dashboards tracking YoY growth, profit margins, and top SKUs
+- Automated KPI reporting, cutting manual reporting effort by 35%
+- Surfaced insights pointing to ~18% potential revenue upside via pricing/category optimization
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+</td>
+<td width="50%" valign="top">
 
-<!-- Database -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+**🧩 Customer Behavior & Segmentation Analysis**
+`Python` `SQL` `Pandas` `NumPy`
 
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="30" alt="Vercel"/>
+- Analyzed 50K+ customer transactions to understand purchasing behavior
+- Applied RFM segmentation — high-value customers driving 42% of total revenue
+- Delivered data-backed retention/targeting strategies projected to lift engagement ~15%
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Social badges -->
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</div>
+**🗂️ SQL Business Case Study**
+`SQL`
+
+- Solved 20+ business scenarios using JOINs, CTEs, subqueries, and window functions
+- Translated complex query output into clear takeaways for non-technical stakeholders
+- Structured reporting improved decision turnaround time by 20%
+
+</td>
+<td width="50%" valign="top">
+
+**🌾 FarmSaarthi — Agri Equipment Rental Platform**
+`React` `Node.js` `MongoDB`
+*Published — ICRET 2026 conference paper*
+
+- Backend supporting 100+ users for equipment booking and tracking
+- Location-based search (Haversine formula) — ~30% faster queries
+- Integrated OTP auth + Razorpay for 100+ secure transactions
+
+</td>
+</tr>
+</table>
+
+> 📎 Repo links coming soon — I'm uploading the dashboards, notebooks, and SQL scripts for these to GitHub. In the meantime the case studies and dashboards are available on request.
+
+---
+
+### 🏆 Achievements
+
+- 📝 **Published Researcher** — Co-authored and presented FarmSaarthi at ICRET International Conference (2026)
+- 🥈 **Hackathon Finalist** — Built CloudSentinel, a full-stack cloud security scanner, in 24 hours
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaishnavigowda27&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavigowda27&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavigowda27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavigowda27&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:vaishnavisgowda27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/vaishnavi-s-626976256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Open to Entry-Level Data Analyst / Business Analyst / Reporting Analyst roles ✨</i></p>
