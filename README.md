@@ -1,5 +1,10 @@
+<h1 align="center">✨ Hey, I'm Vaishnavi ✨</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=200&section=header&text=Hey,%20I'm%20Vaishnavi!&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Endlessly%20curious%20about%20where%20data,%20code%20%26%20cloud%20meet&descSize=17&descAlignY=62" width="100%"/>
+  <img src="https://img.shields.io/badge/-Curious-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Data-8E54E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Code-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Cloud-8E54E9?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -30,6 +35,7 @@
 - 🎓 B.E. in Information Science & Engineering, JSS Science and Technology University (SJCE), Mysuru — CGPA 7.76
 - 📝 Co-authored and presented a research paper on **FarmSaarthi** at the **ICRET International Conference (2026)**
 - 🔗 Check out my full **[portfolio here](https://vaishnavi-s-portfolio.lovable.app/data)**
+- 🎯 Long-term goal: an **MBA in Business Analytics** after building a few years of hands-on experience
 - 🤝 Open to opportunities across **Data/Business Analytics, Software Engineering, and Cloud** — still figuring out exactly where I'll land, and enjoying the ride
 
 ---
@@ -136,10 +142,4 @@
 
 <p align="center"><i>Always up for exploring something new — data, code, cloud, or whatever's next ✨</i></p>
 
-### ⚡ Fun fact
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="160" alt="fun gif"/>
-</p>
-
-I think I'm funny, but my code bugs don't agree 😅
-Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
+<p align="center">🏎️ Also... I dream of owning a <b>GT Silver Porsche 911 GT3 RS</b> someday</p>
