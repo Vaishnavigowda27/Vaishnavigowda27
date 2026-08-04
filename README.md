@@ -1,105 +1,146 @@
-Hi, I'm Vaishnavi 🚀
-
-<h3 align="center">Turning data into decisions • Building software • Exploring the cloud ☁️</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Software+Engineer;Always+learning+something+new;Building+projects+that+solve+real+problems;Open+to+new+opportunities&font=Fira+Code&center=true&width=650&height=45&color=2E9EF7&size=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=200&section=header&text=Hey,%20I'm%20Vaishnavi!&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Endlessly%20curious%20about%20where%20data,%20code%20%26%20cloud%20meet&descSize=17&descAlignY=62" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Curious+by+default%2C+builder+by+habit;Today+it's+dashboards.+Tomorrow%2C+who+knows%3F;Exploring+data%2C+software+%26+the+cloud;Always+chasing+the+next+interesting+problem&font=Fira+Code&center=true&width=650&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<a href="mailto:vaishnavisgowda27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Vaishnavigowda27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://in.linkedin.com/in/vaishnavi-s-626976256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://vaishnavi-s-portfolio.lovable.app/data"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge"/></a>
-</p>
-
-👩‍💻 About Me
-
-🎓 B.E. Information Science & Engineering, JSS Science and Technology University
-
-📊 Interested in Data Analytics, Software Engineering & Cloud
-
-🌱 Currently improving SQL, Power BI, Python and Cloud fundamentals
-
-📝 Published research paper: FarmSaarthi (ICRET 2026)
-
-🤝 Open to full-time opportunities
-
-⚡ Fun Fact
-
-I think I'm funny... my code thinks otherwise 😄Dream car: GT Silver Porsche 911 GT3 RS 🏎️
-
-🛠️ Skills
-
-Languages: Python • Java • JavaScript • C • C++ • C#
-
-Analytics: SQL • Excel • Power BI • Tableau • Pandas • NumPy
-
-Development: React • Next.js • Node.js • HTML • CSS • Tailwind CSS
-
-Database & Cloud: MySQL • MongoDB • AWS • Azure • GCP • Git • GitHub
-
-📊 Featured Projects
-
-Project
-
-Tech Stack
-
-Description
-
-📈 Sales Dashboard
-
-Power BI, SQL, Excel
-
-Interactive dashboard with KPIs and business insights
-
-🌾 FarmSaarthi
-
-React, Node.js, MongoDB
-
-Agricultural equipment rental platform
-
-☁️ CloudSentinel
-
-React, FastAPI, Python
-
-Cloud security misconfiguration scanner
-
-🎙️ VoxMedi
-
-Next.js, TypeScript
-
-AI-powered medical voice assistant
-
-📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaishnavigowda27&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavigowda27&theme=tokyonight"/>
+  <a href="mailto:vaishnavisgowda27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/vaishnavi-s-626976256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Vaishnavigowda27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://vaishnavi-s-portfolio.lovable.app/data"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavigowda27&style=for-the-badge&color=2E9EF7" alt="profile views"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavigowda27&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Status-Exploring_new_opportunities-brightgreen?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Curiosity_Level-Maxed_Out-orange?style=for-the-badge&logo=sparkles" />
 </p>
 
-🏆 Achievements
+---
 
-📝 Published Research Paper – FarmSaarthi (ICRET 2026)
+### 👋 About Me
 
-🥈 Hackathon Finalist – CloudSentinel
+- 🔭 I like poking at problems from every angle — one week it's a Power BI dashboard, the next it's a full-stack app or a cloud security scanner
+- 📊 On the data side — turning messy numbers into a clean dashboard, a clear KPI, or one good insight someone can act on
+- 💻 On the software side — building full-stack apps and REST APIs with Node.js, React, and cloud-integrated tools
+- 🌱 Genuinely happiest when I'm learning something new — right now that's deepening my SQL, Power BI, and cloud fundamentals
+- 🎓 B.E. in Information Science & Engineering, JSS Science and Technology University (SJCE), Mysuru — CGPA 7.76
+- 📝 Co-authored and presented a research paper on **FarmSaarthi** at the **ICRET International Conference (2026)**
+- 🔗 Check out my full **[portfolio here](https://vaishnavi-s-portfolio.lovable.app/data)**
+- 🎯 Long-term goal: an **MBA in Business Analytics** after building a few years of hands-on experience
+- 🤝 Open to opportunities across **Data/Business Analytics, Software Engineering, and Cloud** — still figuring out exactly where I'll land, and enjoying the ride
 
-💡 Passionate about solving real-world problems using technology
+---
 
-📫 Let's Connect
+### 🛠️ Skills
 
 <p align="center">
-<a href="mailto:vaishnavisgowda27@gmail.com">📧 Email</a> •
-<a href="https://in.linkedin.com/in/vaishnavi-s-626976256">LinkedIn</a> •
-<a href="https://vaishnavi-s-portfolio.lovable.app/data">Portfolio</a>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="coding gif"/>
 </p>
 
-<p align="center"><b>✨ Always curious. Always building. Always learning.</b></p>
+**Languages & Querying**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
+</p>
+
+**Data & Visualization Tools**
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+**Frontend & Backend**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS"/>
+</p>
+
+**Databases, Cloud & Tools**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="35" alt="Vercel"/>
+</p>
+
+**Analytics Concepts**
+<p>
+<img src="https://img.shields.io/badge/Data_Cleaning-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/EDA-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/KPI_Analysis-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/DAX-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/RFM_Segmentation-2E9EF7?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Modeling-2E9EF7?style=flat-square" />
+</p>
+
+---
+
+### 📊 Data Analytics Projects
+<img src="https://img.shields.io/badge/-Insights_%26_Dashboards-2E9EF7?style=flat-square&logo=chartdotjs&logoColor=white" />
+
+- **📈 Sales Performance Dashboard** — `Power BI` `SQL` `Excel` · interactive dashboard tracking revenue, profit & regional trends
+- **🧑‍💼 HR Analytics Dashboard** — `Power BI` `DAX` `Excel` · dashboard analyzing attrition, workforce distribution & department performance
+- **🧩 Customer Segmentation Analysis** — `Python` `SQL` `Pandas` · RFM analysis to identify high-value customer segments
+
+> 📎 Repos coming soon — full write-ups live on my [portfolio](https://vaishnavi-s-portfolio.lovable.app/data) in the meantime.
+
+---
+
+### 💻 Software & Cloud Projects
+<img src="https://img.shields.io/badge/-Building_things_that_work-2E9EF7?style=flat-square&logo=codesandbox&logoColor=white" />
+
+- **🌾 [FarmSaarthi](https://github.com/Vaishnavigowda27/FarmSaarthi)** — `React` `Node.js` `MongoDB` · agri equipment rental platform, published at ICRET 2026
+- **☁️ [CloudSentinel](https://github.com/Vaishnavigowda27/CloudSentinel)** — `Python` `FastAPI` `AWS/Azure/GCP` · cloud misconfiguration scanner, hackathon finalist
+- **🎙️ [VoxMedi](https://github.com/Vaishnavigowda27/VoxMedi)** — `Next.js` `TypeScript` `AssemblyAI` · AI medical voice agent
+
+---
+
+### 🏆 Achievements
+<p>
+<img src="https://img.shields.io/badge/Published_Paper-ICRET_2026-blueviolet?style=for-the-badge&logo=readdotcv&logoColor=white" />
+<img src="https://img.shields.io/badge/Hackathon-Finalist-yellow?style=for-the-badge&logo=devpost&logoColor=white" />
+</p>
+
+- 📝 **Published Researcher** — Co-authored and presented FarmSaarthi at ICRET International Conference (2026)
+- 🥈 **Hackathon Finalist** — Built CloudSentinel, a full-stack cloud security scanner, in 24 hours
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:vaishnavisgowda27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/vaishnavi-s-626976256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://vaishnavi-s-portfolio.lovable.app/data"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Always up for exploring something new — data, code, cloud, or whatever's next ✨</i></p>
+
+### ⚡ Fun fact
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="160" alt="fun gif"/>
+</p>
+
+I think I'm funny, but my code bugs don't agree 😅
+Also... I dream of owning a **GT Silver Porsche 911 GT3 RS** someday 🏎️
