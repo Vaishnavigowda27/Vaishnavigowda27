@@ -103,12 +103,9 @@
 ### 📊 Data Analytics Projects
 <img src="https://img.shields.io/badge/-Insights_%26_Dashboards-2E9EF7?style=flat-square&logo=chartdotjs&logoColor=white" />
 
-- **📈 Sales Performance Dashboard** — `Power BI` `SQL` `Excel` · interactive dashboard tracking revenue, profit & regional trends
-- **🧑‍💼 HR Analytics Dashboard** — `Power BI` `DAX` `Excel` · dashboard analyzing attrition, workforce distribution & department performance
-- **🧩 Customer Segmentation Analysis** — `Python` `SQL` `Pandas` · RFM analysis to identify high-value customer segments
-
-> 📎 Repos coming soon — full write-ups live on my [portfolio](https://vaishnavi-s-portfolio.lovable.app/data) in the meantime.
-
+- **📈 [Sales Performance & Revenue Analytics](https://github.com/Vaishnavigowda27/sales-data)** — `Excel` `HTML` `JavaScript` `Plotly.js` `Vercel` · interactive sales dashboard visualizing revenue, regional performance, product trends, and key business KPIs
+- **🧑‍💼 [HR Analytics Dashboard](https://github.com/Vaishnavigowda27/-HR-Analytics-Dashboard)** — `Power BI` `Power Query` `DAX` · workforce analytics dashboard tracking employee distribution, salaries, leave balance, and HR KPIs through interactive visualizations
+- **🚚 [Supply Chain & Procurement Analytics](https://github.com/Vaishnavigowda27/Supply-Chain-Procurement-Analytics)** — `SQL` `Python` `Power BI` · procurement analytics dashboard analyzing supplier performance, procurement cost, lead time, and procurement risk using the Kraljic Matrix
 ---
 
 ### 💻 Software & Cloud Projects
