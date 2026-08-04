@@ -141,4 +141,4 @@
 
 <p align="center"><i>Always up for exploring something new — data, code, cloud, or whatever's next ✨</i></p>
 
-<p align="center">🏎️ Also... I dream of owning a <b>GT Silver Porsche 911 GT3 RS</b> someday</p>
+<p align="center"> Also... I dream of owning a <b>GT Silver Porsche 911 GT3 RS</b> someday 🏎️</p>
