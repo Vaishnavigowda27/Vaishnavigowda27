@@ -30,7 +30,6 @@
 - 🎓 B.E. in Information Science & Engineering, JSS Science and Technology University (SJCE), Mysuru — CGPA 7.76
 - 📝 Co-authored and presented a research paper on **FarmSaarthi** at the **ICRET International Conference (2026)**
 - 🔗 Check out my full **[portfolio here](https://vaishnavi-s-portfolio.lovable.app/data)**
-- 🎯 Long-term goal: an **MBA in Business Analytics** after building a few years of hands-on experience
 - 🤝 Open to opportunities across **Data/Business Analytics, Software Engineering, and Cloud** — still figuring out exactly where I'll land, and enjoying the ride
 
 ---
