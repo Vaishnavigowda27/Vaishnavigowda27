@@ -41,11 +41,12 @@
 
 ### 🛠️ Skills
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="coding gif"/>
-</p>
+<table>
+<tr>
+<td width="75%" valign="top">
 
 **Languages & Querying**
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
@@ -55,6 +56,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
 </p>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 **Data & Visualization Tools**
 <p>
