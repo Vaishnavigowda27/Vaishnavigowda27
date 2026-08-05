@@ -32,7 +32,7 @@
 - 📊 On the data side — turning messy numbers into a clean dashboard, a clear KPI, or one good insight someone can act on
 - 💻 On the software side — building full-stack apps and REST APIs with Node.js, React, and cloud-integrated tools
 - 🌱 Genuinely happiest when I'm learning something new — right now that's deepening my SQL, Power BI, and cloud fundamentals
-- 🎓 B.E. in Information Science & Engineering, JSS Science and Technology University (SJCE), Mysuru — CGPA 7.76
+- 🎓 B.E. in Information Science & Engineering, JSS Science and Technology University (SJCE), Mysuru
 - 📝 Co-authored and presented a research paper on **FarmSaarthi** at the **ICRET International Conference (2026)**
 - 🔗 Check out my full **[portfolio here](https://vaishnavi-s-portfolio.lovable.app/)**
 - 🤝 Open to opportunities across **Data/Business Analytics, Software Engineering, and Cloud** — still figuring out exactly where I'll land, and enjoying the ride
